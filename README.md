@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Feel free to Connect ✌
 
-[<img align="left" alt="Muhmmad Abrar" | Linkedin" width="22px" src="https://github.com/iMuhammadwaseem/iMuhammadwaseem/blob/main/linkedin.png" />][linkedin]
+[<img align="left" alt="Muhmmad Abrar" | Linkedin" width="22px" src="/linkedin.png?raw=true" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/muhmmadabrar
