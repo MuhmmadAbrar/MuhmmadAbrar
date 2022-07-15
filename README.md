@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##   Hello Viewers :raised_hands:, I am an Undergraduate Student ✨
+##   Hello people! :raised_hands:, I am an Undergraduate Student ✨
 
 - 📚 I’m currently learning everything related to tech
 - 🥅 2022 Goals: Contribute to Open Source projects
