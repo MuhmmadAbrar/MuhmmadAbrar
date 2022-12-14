@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 📚 I’m currently learning everything related to tech.
 - 🥅 2023 Goals - Master Data Structures and Algotithms - Deep Learning - Web Development and yeah.. to work on some cool projects!
-- 🤔 I’m looking for help with Web Development
 
 <br />
 
