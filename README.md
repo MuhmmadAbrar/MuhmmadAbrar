@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ##   Hello people! :raised_hands:, I am an Undergraduate Student ✨
 
-- 📚 I’m currently learning everything related to tech
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 📚 I’m currently learning everything related to tech.
+- 🥅 2023 Goals - Master Data Structures and Algotithms - Deep Learning - Web Development and yeah.. to work on some cool projects!
 
 
 <br />
