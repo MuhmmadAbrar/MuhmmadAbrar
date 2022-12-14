@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##   Hello people! :raised_hands:, I am an Undergraduate Student ✨
+##   Hello people! :raised_hands:, I am Muhmmad Abrar - an Undergrad Student from Chennai, India. ✨
 
 - 📚 I’m currently learning everything related to tech.
 - 🥅 2023 Goals - Master Data Structures and Algotithms - Deep Learning - Web Development and yeah.. to work on some cool projects!
-
+- 🤔 I’m looking for help with Web Development
 
 <br />
 
