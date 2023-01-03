@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **MuhmmadAbrar/MuhmmadAbrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##   Hello people! :raised_hands:, I am Muhmmad Abrar - an Undergrad Student from Chennai, India. ✨
+#   Hello people! :raised_hands:
+
+## I am Muhmmad Abrar - an Undergrad Student from Chennai, India. ✨
 
 > Sometimes, you got to run, before you can walk - Tony Stark
 
