@@ -16,15 +16,11 @@ Here are some ideas to get you started:
 -->
 ##   Hello people! :raised_hands:, I am Muhmmad Abrar - an Undergrad Student from Chennai, India. ✨
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> Sometimes, you got to run, before you can walk - Tony Stark
 
-- 📚 I’m currently learning everything related to tech.
+- 🔭 I’m currently working on DevOPS
+- 📚 I’m currently learning Deep Learning
+- 👯 I’m looking to collaborate on App and Web Dev
 - 🥅 2023 Goals - Master Data Structures and Algotithms - Deep Learning - Web Development and yeah.. to work on some cool projects!
 
 <br />
