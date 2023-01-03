@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 📚 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on App and Web Dev
 - 🥅 2023 Goals - Master Data Structures and Algotithms - Deep Learning - Web Development and yeah.. to work on some cool projects!
+- 📫 How to reach me: [muhmmadabrar.r2021@vitstudent.ac.in]
 
 <br />
 
