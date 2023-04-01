@@ -1,6 +1,5 @@
-#   Hello people! :raised_hands:
-
-## I am Muhmmad Abrar - an Undergrad Student from Chennai, India. ✨
+<h1 align="center">Hi 👋, I'm Muhmmad Abrar</h1>
+<h3 align="center">An Undergrad Student from Chennai, India.</h3>
 
 > Sometimes, you got to run, before you can walk - Tony Stark
 
@@ -13,8 +12,6 @@
 
 <br />
 
-<h1 align="center">Hi 👋, I'm Muhmmad Abrar</h1>
-<h3 align="center">An Undergrad Student from Chennai, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhmmadabrar&label=Profile%20views&color=0e75b6&style=flat" alt="muhmmadabrar" /> </p>
 
