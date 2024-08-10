@@ -19,8 +19,5 @@ Driven by a passion for artificial intelligence and robotics, I am focused on pu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muhmmadabrar&icon=1&color=7)](https://visitcount.itsvg.in)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhmmadabrar&label=Profile%20views&color=0e75b6&style=flat" alt="muhmmadabrar" /> </p>
 
