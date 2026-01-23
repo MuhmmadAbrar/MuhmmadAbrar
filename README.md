@@ -32,15 +32,3 @@ Open source collaborators! If you're interested in AI agents, automation, or dev
 When I'm not writing code, you'll find me on the cricket field, badminton court, or out on a long drive.
 
 ---
-
-## Stats
-
-![](https://github-readme-stats.vercel.app/api?username=muhmmadabrar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhmmadabrar&theme=dark&hide_border=false)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/muhmmadabrar?theme=nord&font=ABeeZee&ext=contest)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhmmadabrar&label=Profile%20views&color=0e75b6&style=flat" alt="muhmmadabrar" /> </p>
